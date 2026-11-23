@@ -1,0 +1,101 @@
+id,ticket,expected_category,split
+TKT-001,The customer reports a duplicate card charge for one purchase.,Billing and Payment,eval
+TKT-002,The payment was declined but the bank shows a pending debit. This issue is still unresolved.,Billing and Payment,eval
+TKT-003,The invoice total includes an unexpected extra fee. The customer is requesting assistance.,Billing and Payment,development
+TKT-004,The customer cannot download the payment receipt.,Billing and Payment,development
+TKT-005,A subscription payment was taken twice this month. This issue is still unresolved.,Billing and Payment,development
+TKT-006,The checkout page shows an incorrect tax amount. The customer is requesting assistance.,Billing and Payment,development
+TKT-007,The customer wants clarification about a charge on the statement.,Billing and Payment,development
+TKT-008,A promo discount was not applied to the final payment. This issue is still unresolved.,Billing and Payment,development
+TKT-009,The saved card is rejected during payment. The customer is requesting assistance.,Billing and Payment,development
+TKT-010,The customer asks when a pending payment will settle.,Billing and Payment,development
+TKT-011,The customer wants to know whether order 4821 has been confirmed.,Order Status,eval
+TKT-012,The order page still says processing after two days. This issue is still unresolved.,Order Status,eval
+TKT-013,The customer did not receive an order confirmation email. The customer is requesting assistance.,Order Status,development
+TKT-014,The customer asks for the current status of a recent purchase.,Order Status,development
+TKT-015,The order appears in the account but has no status update. This issue is still unresolved.,Order Status,development
+TKT-016,The customer wants confirmation that the order was accepted. The customer is requesting assistance.,Order Status,development
+TKT-017,The order number is missing from the purchase history.,Order Status,development
+TKT-018,The customer asks when the seller will dispatch the order. This issue is still unresolved.,Order Status,development
+TKT-019,The status changed to packed and the customer wants an update. The customer is requesting assistance.,Order Status,development
+TKT-020,The customer cannot find details for a recently placed order.,Order Status,development
+TKT-021,The parcel has not arrived by the promised delivery date.,Delivery Issues,eval
+TKT-022,The courier tracking page has shown in transit for four days. This issue is still unresolved.,Delivery Issues,eval
+TKT-023,The delivery driver called but did not reach the address. The customer is requesting assistance.,Delivery Issues,development
+TKT-024,The customer wants to change the delivery time slot.,Delivery Issues,development
+TKT-025,The parcel was marked delivered but was not received. This issue is still unresolved.,Delivery Issues,development
+TKT-026,The courier attempted delivery at the wrong address. The customer is requesting assistance.,Delivery Issues,development
+TKT-027,The customer asks why delivery is delayed.,Delivery Issues,development
+TKT-028,The tracking number does not open on the courier website. This issue is still unresolved.,Delivery Issues,development
+TKT-029,The parcel is being held at the local delivery hub. The customer is requesting assistance.,Delivery Issues,development
+TKT-030,The customer requests an update about a late shipment.,Delivery Issues,development
+TKT-031,The customer wants to return shoes that do not fit.,Returns and Refunds,eval
+TKT-032,A refund has not appeared after the returned item was received. This issue is still unresolved.,Returns and Refunds,eval
+TKT-033,The customer asks for the steps to send an item back. The customer is requesting assistance.,Returns and Refunds,development
+TKT-034,The return request page displays an error.,Returns and Refunds,development
+TKT-035,The customer wants to know the refund processing time. This issue is still unresolved.,Returns and Refunds,development
+TKT-036,The item is eligible for return and the customer requests a label. The customer is requesting assistance.,Returns and Refunds,development
+TKT-037,The customer received store credit but expected a refund.,Returns and Refunds,development
+TKT-038,The customer asks whether a purchase can still be returned. This issue is still unresolved.,Returns and Refunds,development
+TKT-039,The return parcel tracking shows received but no refund update. The customer is requesting assistance.,Returns and Refunds,development
+TKT-040,The customer wants to withdraw a return request.,Returns and Refunds,development
+TKT-041,The customer cannot sign in because the password reset link expired.,Account Access,eval
+TKT-042,The account is locked after several unsuccessful login attempts. This issue is still unresolved.,Account Access,eval
+TKT-043,The customer no longer has access to the registered email. The customer is requesting assistance.,Account Access,development
+TKT-044,The one-time verification code is not arriving.,Account Access,development
+TKT-045,The customer wants to update the email address on the account. This issue is still unresolved.,Account Access,development
+TKT-046,The password reset page keeps returning an error. The customer is requesting assistance.,Account Access,development
+TKT-047,The customer cannot remember the username for the account.,Account Access,development
+TKT-048,Two-factor authentication is blocking account access. This issue is still unresolved.,Account Access,development
+TKT-049,The customer reports being signed out repeatedly. The customer is requesting assistance.,Account Access,development
+TKT-050,The account registration form says the email is already in use.,Account Access,development
+TKT-051,The mobile application closes whenever the customer opens the cart.,Technical Issues,eval
+TKT-052,The website shows a blank page after clicking checkout. This issue is still unresolved.,Technical Issues,eval
+TKT-053,The search function returns an error instead of results. The customer is requesting assistance.,Technical Issues,development
+TKT-054,Images are not loading on the product detail page.,Technical Issues,development
+TKT-055,The customer cannot add an item to the shopping cart. This issue is still unresolved.,Technical Issues,development
+TKT-056,The website freezes when the customer applies a filter. The customer is requesting assistance.,Technical Issues,development
+TKT-057,The app displays error code 503 during browsing.,Technical Issues,development
+TKT-058,The customer reports that buttons do not respond on the page. This issue is still unresolved.,Technical Issues,development
+TKT-059,The order history page fails to load on the browser. The customer is requesting assistance.,Technical Issues,development
+TKT-060,The application is unusually slow when opening product pages.,Technical Issues,development
+TKT-061,The customer asks whether the jacket is available in medium size.,Product Information,eval
+TKT-062,The product page does not list the material composition. This issue is still unresolved.,Product Information,eval
+TKT-063,The customer wants to know the dimensions of the desk. The customer is requesting assistance.,Product Information,development
+TKT-064,The customer asks whether headphones include a charging cable.,Product Information,development
+TKT-065,The product description does not explain the warranty period. This issue is still unresolved.,Product Information,development
+TKT-066,The customer wants details about compatibility with a laptop. The customer is requesting assistance.,Product Information,development
+TKT-067,The customer asks whether the item is available in another colour.,Product Information,development
+TKT-068,The product listing has no information about included accessories. This issue is still unresolved.,Product Information,development
+TKT-069,The customer wants to compare two product specifications. The customer is requesting assistance.,Product Information,development
+TKT-070,The customer asks for care instructions for the fabric.,Product Information,development
+TKT-071,The customer wants to cancel an order placed ten minutes ago.,Cancellation Requests,eval
+TKT-072,The customer asks whether an order can be cancelled before dispatch. This issue is still unresolved.,Cancellation Requests,eval
+TKT-073,The cancel button is missing from the order details page. The customer is requesting assistance.,Cancellation Requests,development
+TKT-074,The customer no longer wants the item and requests cancellation.,Cancellation Requests,development
+TKT-075,The customer placed the same order twice and wants one cancelled. This issue is still unresolved.,Cancellation Requests,development
+TKT-076,The customer asks how to stop an order that is being prepared. The customer is requesting assistance.,Cancellation Requests,development
+TKT-077,The customer wants to cancel a scheduled subscription renewal.,Cancellation Requests,development
+TKT-078,The cancellation request page does not submit. This issue is still unresolved.,Cancellation Requests,development
+TKT-079,The customer asks whether cancellation is still possible after packing. The customer is requesting assistance.,Cancellation Requests,development
+TKT-080,The customer requests cancellation because the delivery date changed.,Cancellation Requests,development
+TKT-081,The delivered mug arrived with a large crack.,Damaged or Missing Items,eval
+TKT-082,One item is missing from the package although the invoice lists it. This issue is still unresolved.,Damaged or Missing Items,eval
+TKT-083,The customer received a damaged screen on the tablet. The customer is requesting assistance.,Damaged or Missing Items,development
+TKT-084,The parcel contained the wrong item instead of the ordered product.,Damaged or Missing Items,development
+TKT-085,The box was open and an accessory was missing on arrival. This issue is still unresolved.,Damaged or Missing Items,development
+TKT-086,The customer reports that the product casing is broken. The customer is requesting assistance.,Damaged or Missing Items,development
+TKT-087,A bottle leaked inside the package and damaged other items.,Damaged or Missing Items,development
+TKT-088,The package arrived empty according to the customer. This issue is still unresolved.,Damaged or Missing Items,development
+TKT-089,The customer received two units but one is defective. The customer is requesting assistance.,Damaged or Missing Items,development
+TKT-090,The item has visible scratches that were not shown in the listing.,Damaged or Missing Items,development
+TKT-091,The customer wants to know the store opening hours.,Other Inquiries,eval
+TKT-092,The customer asks how to contact the corporate office. This issue is still unresolved.,Other Inquiries,eval
+TKT-093,The customer has feedback about the website design. The customer is requesting assistance.,Other Inquiries,development
+TKT-094,The customer asks whether gift wrapping is available generally.,Other Inquiries,development
+TKT-095,The customer wants information about the loyalty programme. This issue is still unresolved.,Other Inquiries,development
+TKT-096,The customer asks how to subscribe to the newsletter. The customer is requesting assistance.,Other Inquiries,development
+TKT-097,The customer wants to know whether the store has a mobile app.,Other Inquiries,development
+TKT-098,The customer asks about business partnership opportunities. This issue is still unresolved.,Other Inquiries,development
+TKT-099,The customer wants to update communication preferences. The customer is requesting assistance.,Other Inquiries,development
+TKT-100,The customer has a general question not covered by other topics.,Other Inquiries,development

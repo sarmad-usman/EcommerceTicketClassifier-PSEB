@@ -1,0 +1,4 @@
+method,accuracy,n_eval,result_type
+Keyword baseline,0.75,20,"deterministic local fixture / similarity baseline, not live LLM performance"
+Prompt v1 mock fixture,0.75,20,"deterministic local fixture / similarity baseline, not live LLM performance"
+Prompt v2 mock fixture,0.5,20,"deterministic local fixture / similarity baseline, not live LLM performance"

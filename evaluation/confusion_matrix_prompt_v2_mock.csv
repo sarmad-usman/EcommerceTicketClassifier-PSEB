@@ -1,0 +1,11 @@
+,Billing and Payment,Order Status,Delivery Issues,Returns and Refunds,Account Access,Technical Issues,Product Information,Cancellation Requests,Damaged or Missing Items,Other Inquiries
+Billing and Payment,1,0,0,0,1,0,0,0,0,0
+Order Status,0,0,0,1,0,0,1,0,0,0
+Delivery Issues,0,0,1,0,0,0,0,1,0,0
+Returns and Refunds,0,0,1,1,0,0,0,0,0,0
+Account Access,0,0,0,0,2,0,0,0,0,0
+Technical Issues,1,0,0,0,0,0,0,0,0,1
+Product Information,0,0,0,0,0,0,1,1,0,0
+Cancellation Requests,0,1,0,0,0,0,0,1,0,0
+Damaged or Missing Items,0,0,0,0,0,0,0,0,2,0
+Other Inquiries,0,0,0,1,0,0,0,0,0,1

@@ -1,0 +1,11 @@
+id,ticket,expected_category,prompt_v2_mock_prediction
+TKT-001,The customer reports a duplicate card charge for one purchase.,Billing and Payment,Account Access
+TKT-011,The customer wants to know whether order 4821 has been confirmed.,Order Status,Product Information
+TKT-012,The order page still says processing after two days. This issue is still unresolved.,Order Status,Returns and Refunds
+TKT-021,The parcel has not arrived by the promised delivery date.,Delivery Issues,Cancellation Requests
+TKT-032,A refund has not appeared after the returned item was received. This issue is still unresolved.,Returns and Refunds,Delivery Issues
+TKT-051,The mobile application closes whenever the customer opens the cart.,Technical Issues,Other Inquiries
+TKT-052,The website shows a blank page after clicking checkout. This issue is still unresolved.,Technical Issues,Billing and Payment
+TKT-062,The product page does not list the material composition. This issue is still unresolved.,Product Information,Cancellation Requests
+TKT-072,The customer asks whether an order can be cancelled before dispatch. This issue is still unresolved.,Cancellation Requests,Order Status
+TKT-092,The customer asks how to contact the corporate office. This issue is still unresolved.,Other Inquiries,Returns and Refunds
